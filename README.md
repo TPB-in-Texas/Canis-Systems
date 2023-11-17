@@ -1,2 +1,2 @@
 # Canis-Systems
-A place for my intellectual property
+This is a place for my intellectual property.
